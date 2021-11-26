@@ -1,2 +1,2 @@
 # Sistematologica_Data_Mining
-Para arquivos de tutoriais e exemplos de aplicativos em Mineração de Dados
+Como repositório de arquivos de tutoriais e exemplos de aplicativos em Mineração de Dados.
